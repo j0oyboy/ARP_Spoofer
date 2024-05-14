@@ -21,10 +21,6 @@ This ARP spoofer is a tool designed for network penetration testing and security
     ```bash
     cd arp_spoofer
     ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 ```bash
