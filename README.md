@@ -24,7 +24,7 @@ This ARP spoofer is a tool designed for network penetration testing and security
 
 ## Usage
 ```bash
-python arp_spoofer.py -t TARGET_IP -g GATEWAY_IP
+python ARP-Spoofer.py -t TARGET_IP -g GATEWAY_IP
 ```
 ## Arguments:
 ```bash
