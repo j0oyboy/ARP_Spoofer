@@ -15,11 +15,11 @@ This ARP spoofer is a tool designed for network penetration testing and security
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/arp_spoofer.git
+    git clone https://github.com/souhaib-soo/ARP-Spoofer.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd arp_spoofer
+    cd ARP-Spoofer
     ```
 
 ## Usage
