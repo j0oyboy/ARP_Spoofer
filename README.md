@@ -15,7 +15,7 @@ This ARP spoofer is a tool designed for network penetration testing and security
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/souhaib-soo/ARP-Spoofer.git
+    https://github.com/j0oyboy/ARP-Spoofer.git
     ```
 2. Navigate to the project directory:
     ```bash
