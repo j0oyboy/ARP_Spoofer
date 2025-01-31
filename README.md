@@ -15,7 +15,7 @@ This ARP spoofer is a tool designed for network penetration testing and security
 ## Installation
 1. Clone the repository:
     ```bash
-    https://github.com/j0oyboy/ARP-Spoofer.git
+    https://github.com/j0oyboy/ARP_Spoofer.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -24,7 +24,7 @@ This ARP spoofer is a tool designed for network penetration testing and security
 
 ## Usage
 ```bash
-python ARP-Spoofer.py -t TARGET_IP -g GATEWAY_IP
+python ARP_Spoofer.py -t TARGET_IP -g GATEWAY_IP
 ```
 ## Arguments:
 ```bash
@@ -34,7 +34,7 @@ python ARP-Spoofer.py -t TARGET_IP -g GATEWAY_IP
 ```
 ## Example
 ```bash
-python arp_spoofer.py -t 192.168.1.100 -g 192.168.1.1
+python Arp_Spoofer.py -t 192.168.1.100 -g 192.168.1.1
 ```
 ## Disclaimer
 This tool is intended for educational and ethical testing purposes only. Misuse of this tool for malicious activities is illegal and can lead to severe legal consequences. The developers assume no liability and are not responsible for any misuse or damage caused by this tool.
